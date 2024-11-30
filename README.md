@@ -13,6 +13,7 @@ This Python-based project segments mall customers into distinct groups based on 
 - **Pandas** and **NumPy** for data handling
 - **Matplotlib** and **Seaborn** for visualizations
 - **Scikit-Learn** for clustering algorithms
+- **streamlit** build and share machine learning and data science web apps
 
 ## Use Cases
 This segmentation helps in creating targeted marketing campaigns, improving customer engagement, and personalizing shopping experiences based on customer preferences.
